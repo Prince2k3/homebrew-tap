@@ -1,5 +1,3 @@
-# Homebrew formula for the Prince2k3/homebrew-tap repository (Formula/dshift.rb).
-# scripts/update-formula.sh <version> fills in the url and sha256 after the tag is pushed.
 class Dshift < Formula
   desc "Route each Claude Code and Codex prompt to the cheapest model that can handle it"
   homepage "https://github.com/Prince2k3/downshift"
